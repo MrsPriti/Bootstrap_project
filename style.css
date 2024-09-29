@@ -80,6 +80,11 @@ li{
     color:var(--bs-primary-color);
 }
 
+.bg-theme{
+
+    color: var( --bs-supporting-color);
+    background-image: none!important;
+}
 
 .hero-video--section{
     max-width: 100%;
